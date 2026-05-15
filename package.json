@@ -1,0 +1,23 @@
+{
+  "name": "playwright-typescript",
+  "version": "1.0.0",
+  "description": "Personal Playwright and Typescript project to showcase enterprise-grade understanding and scalability",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suveshan-git/playwright-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Suveshan-git/playwright-typescript/issues"
+  },
+  "homepage": "https://github.com/Suveshan-git/playwright-typescript#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.8.0"
+  }
+}
