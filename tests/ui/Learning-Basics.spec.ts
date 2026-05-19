@@ -8,6 +8,8 @@
 
             //assertion
         })")
+
+    2. fixture - global variable like page, browser
 */
 
 import {test, expect} from "@playwright/test";
